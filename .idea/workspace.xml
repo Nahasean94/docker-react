@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9470986-e188-43fb-baf8-0c47e6f19618" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile.dev" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile.dev" afterDir="false" />
-    </list>
+    <list default="true" id="a9470986-e188-43fb-baf8-0c47e6f19618" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -89,6 +85,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="a30312c2-0187-4e4c-9a82-c1d192fc3012" />
@@ -240,7 +241,7 @@
       <workItem from="1554140404505" duration="3234000" />
       <workItem from="1554310824638" duration="2566000" />
       <workItem from="1554535542530" duration="4245000" />
-      <workItem from="1554739626125" duration="6068000" />
+      <workItem from="1554739626125" duration="6771000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1554542941810</created>
@@ -277,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554748707269</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added a dockerfile for production use">
+      <created>1554750234532</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554750234532</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -286,7 +294,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16113000" />
+    <option name="totallyTimeSpent" value="16816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="960" height="1056" extended-state="4" />
@@ -320,7 +328,8 @@
     <MESSAGE value="Updated username in travis file" />
     <MESSAGE value="Added travis deploy config" />
     <MESSAGE value="Exposed port 80 in dockerfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exposed port 80 in dockerfile" />
+    <MESSAGE value="Added a dockerfile for production use" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a dockerfile for production use" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
